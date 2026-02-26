@@ -50,7 +50,6 @@ def run_geocode_pipeline(logger):
 
         update_counter(status_counter, status)
 
-        #logger.info(f"{i+1}/{len(df)} → {alamat} | {status}")
         log_msg = f"{i+1}/{len(df)} → {alamat} | {status}"
         log_status(logger, log_msg, status)
 
