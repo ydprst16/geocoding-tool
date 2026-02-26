@@ -1,0 +1,23 @@
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+venv/
+
+# logs
+logs/
+
+# output data
+data/output/
+
+# cache
+data/geocode_cache.json
+
+# OS
+.DS_Store
+Thumbs.db
