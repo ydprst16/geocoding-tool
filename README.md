@@ -37,12 +37,10 @@ pip install -r requirements.txt
 ```
 🔑 Setup Google API Key
 
-Go to Google Cloud Console
-https://console.cloud.google.com/
-Enable Geocoding API
-Create an API key
-Create .env file in project root:
-GOOGLE_API_KEY=YOUR_API_KEY
+Go to Google Cloud Console: https://console.cloud.google.com/
+<br>Enable Geocoding API
+<br>Create an API key
+<br>Create .env file in project root: GOOGLE_API_KEY=YOUR_API_KEY
 
 ▶️ Run the program
 ```bash
